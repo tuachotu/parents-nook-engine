@@ -59,7 +59,7 @@ Following is the directory structure and how code will be organized
 
 ##how to install any dependencies
 
-`sbt compile` should download all dependencies (test framework lib) which are mentioned in `build.sbt` 
+   `sbt compile` should download all dependencies (test framework lib) which are mentioned in `build.sbt` 
 
 
 ## How to run
