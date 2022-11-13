@@ -18,7 +18,7 @@ src
 │       ├── model
 │       │   └── NookParticipant.scala
 │       └── util
-│           └── CreditCardUtil.scala
+│           └── 
 └── test
     └── scala
 ```
@@ -65,6 +65,6 @@ Following is the directory structure and how code will be organized
 ## How to run
 #### Bare Bone way
 
-In this command only last two parts (i.e. `CreditCardProcessor  "/Users/xyzsingh/input.txt"`) are relevant everthing else is setup stuff.
+
 #### More readable way
 
